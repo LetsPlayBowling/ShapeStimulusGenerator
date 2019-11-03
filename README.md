@@ -1,4 +1,5 @@
 # ShapeStimulusGenerator
+This is a matlab tool with GUI.
 
 It can generate geometric shapes by pre-set templates. 
 
