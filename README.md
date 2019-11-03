@@ -1,11 +1,11 @@
 # ShapeStimulusGenerator
 
-This tool is written for psychological, cognitive research.
-
 It can generate geometric shapes by pre-set templates. 
 
-It can also generate text stimuli.
+It can also text on the canvas.
 
-You can move, stretch, rotate and change the color of the stimuli.
+This tool was written for psychology, cognitive research.
 
-The generated stimuli can be saved in common-use formats.
+You can move, stretch, rotate and change the color of the stimulus.
+
+Common formats are available for saving the generated pics.
